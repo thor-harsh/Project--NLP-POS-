@@ -19,6 +19,11 @@ NLP combines computational linguistics—rule-based modeling of human language�
 
 NLP drives computer programs that translate text from one language to another, respond to spoken commands, and summarize large volumes of text rapidly—even in real time. There’s a good chance you’ve interacted with NLP in the form of voice-operated GPS systems, digital assistants, speech-to-text dictation software, customer service chatbots, and other consumer conveniences. But NLP also plays a growing role in enterprise solutions that help streamline business operations, increase employee productivity, and simplify mission-critical business processes.<br></br>
 
+
+**What is (POS) Part of Speech**?<br></br>
+
+Parts of Speech tagging is a linguistic activity in Natural Language Processing (NLP) wherein each word in a document is given a particular part of speech (adverb, adjective, verb, etc.) or grammatical category. It is the process of assigning a part of speech (such as noun, verb, adjective, etc.) to each word in a text corpus. POS tagging is an important step in many NLP tasks, including syntactic analysis, information extraction, and sentiment analysis.<br></br>
+
 **Important Note: Go through the text file before jumping to the code.**
 
 
